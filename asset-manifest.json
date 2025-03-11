@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/360-display/static/css/main.ea445290.css",
-    "main.js": "/360-display/static/js/main.397a03a1.js",
+    "main.js": "/360-display/static/js/main.38470248.js",
     "static/media/vlieland.jpg": "/360-display/static/media/vlieland.ac64e43c522a325c2dc3.jpg",
     "static/media/texel.jpg": "/360-display/static/media/texel.67dc648f8b1e16c4803d.jpg",
     "index.html": "/360-display/index.html",
     "main.ea445290.css.map": "/360-display/static/css/main.ea445290.css.map",
-    "main.397a03a1.js.map": "/360-display/static/js/main.397a03a1.js.map"
+    "main.38470248.js.map": "/360-display/static/js/main.38470248.js.map"
   },
   "entrypoints": [
     "static/css/main.ea445290.css",
-    "static/js/main.397a03a1.js"
+    "static/js/main.38470248.js"
   ]
 }

@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/360-display/static/css/main.018fad2f.css",
-    "main.js": "/360-display/static/js/main.7eb149b6.js",
-    "static/media/vlieland.jpg": "/360-display/static/media/vlieland.ac64e43c522a325c2dc3.jpg",
-    "static/media/texel.jpg": "/360-display/static/media/texel.67dc648f8b1e16c4803d.jpg",
-    "index.html": "/360-display/index.html",
-    "main.018fad2f.css.map": "/360-display/static/css/main.018fad2f.css.map",
-    "main.7eb149b6.js.map": "/360-display/static/js/main.7eb149b6.js.map"
+    "main.css": "./static/css/main.018fad2f.css",
+    "main.js": "./static/js/main.c930c5b7.js",
+    "static/media/vlieland.jpg": "./static/media/vlieland.ac64e43c522a325c2dc3.jpg",
+    "static/media/texel.jpg": "./static/media/texel.67dc648f8b1e16c4803d.jpg",
+    "static/media/hoofdplaat.jpg": "./static/media/hoofdplaat.4d01a4aab8a5684661e5.jpg",
+    "static/media/svedjehamn.jpg": "./static/media/svedjehamn.d9d7fd36ff695e53cfca.jpg",
+    "static/media/b9088.jpg": "./static/media/b9088.f1b21139f5afe4fa10b0.jpg",
+    "index.html": "./index.html",
+    "main.018fad2f.css.map": "./static/css/main.018fad2f.css.map",
+    "main.c930c5b7.js.map": "./static/js/main.c930c5b7.js.map"
   },
   "entrypoints": [
     "static/css/main.018fad2f.css",
-    "static/js/main.7eb149b6.js"
+    "static/js/main.c930c5b7.js"
   ]
 }

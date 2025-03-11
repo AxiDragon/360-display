@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/360-display/static/css/main.ea445290.css",
-    "main.js": "/360-display/static/js/main.b55959c5.js",
-    "static/media/vlieland.jpg": "/360-display/static/media/vlieland.ac64e43c522a325c2dc3.jpg",
-    "static/media/texel.jpg": "/360-display/static/media/texel.67dc648f8b1e16c4803d.jpg",
-    "index.html": "/360-display/index.html",
-    "main.ea445290.css.map": "/360-display/static/css/main.ea445290.css.map",
-    "main.b55959c5.js.map": "/360-display/static/js/main.b55959c5.js.map"
+    "main.css": "./static/css/main.ea445290.css",
+    "main.js": "./static/js/main.d277bb8f.js",
+    "static/media/vlieland.jpg": "./static/media/vlieland.ac64e43c522a325c2dc3.jpg",
+    "static/media/texel.jpg": "./static/media/texel.67dc648f8b1e16c4803d.jpg",
+    "index.html": "./index.html",
+    "main.ea445290.css.map": "./static/css/main.ea445290.css.map",
+    "main.d277bb8f.js.map": "./static/js/main.d277bb8f.js.map"
   },
   "entrypoints": [
     "static/css/main.ea445290.css",
-    "static/js/main.b55959c5.js"
+    "static/js/main.d277bb8f.js"
   ]
 }
